@@ -24,4 +24,9 @@
 - 🌱 Estudando HTML5/CSS3 e JavaScript
 - 👯 Pretendo colaborar em **projetos de código aberto**
 
+  ##
+  <div>
+    ![Snake animation](https://github.com/dannebrock/dannebrock/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 

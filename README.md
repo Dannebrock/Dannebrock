@@ -25,7 +25,7 @@
   ##
   
 - 🔭 Estou em busca de oportunidade: Front-End ou Mobile
-- 🌱 Estudando HTML5/CSS3 e JavaScript
+- 🌱 Estudando ReactJS e React Native.
 - 👯 Pretendo colaborar em **projetos de código aberto**
 
   ##

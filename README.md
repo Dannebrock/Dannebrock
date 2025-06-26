@@ -37,7 +37,7 @@
 ### 💼 Projetos em destaque
 
 - 🔧 Sistema de controle de produtos com Vue + PrimeVue, customizado para uma distribuidora (freelancer)  
-- 🧪 Protótipos de interface criados no Figma  
+<!-- - 🧪 Protótipos de interface criados no Figma -->
 *(Veja repositórios fixados ou me chame para ver mais!)*
 
 ---

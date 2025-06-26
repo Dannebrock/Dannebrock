@@ -11,7 +11,7 @@
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 🧑‍💼 Atuei como **Front-End** em equipe enxuta, sendo responsável por novas funcionalidades, correções e manutenção com **Vue.js** e **PrimeVue**  
 📦 Experiência como **freelancer** desenvolvendo um portal de produtos para uma **distribuidora de laticínios**  
-📚 Atualmente estudando **ReactJS**, **React Native** e **Figma**, buscando melhorar cada vez mais a qualidade de interfaces e experiências de usuário
+📚 Atualmente estudando **ReactJS**, **VueJS** e **Figma**, buscando melhorar cada vez mais a qualidade de interfaces e experiências de usuário
 
 ---
 

@@ -58,10 +58,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Dev thinking" />
-</p>
-
----
-
 ⚡ *Obrigado por visitar meu perfil! Vamos criar algo incrível juntos?* 🤝
